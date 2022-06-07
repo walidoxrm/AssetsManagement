@@ -18,10 +18,10 @@ Pour l'installation:
   Vos feedbacks sont les bienvenues. 
   
   
-  Walid Nadifi 
-  FullStack Developer 
-  MOROCCO
-  Tel: +212 6 61 08 44 85
+  # Walid Nadifi 
+  # FullStack Developer 
+  # MOROCCO
+  # Tel: +212 6 61 08 44 85
   
   Refs: 
   NodeJs,PHP,Angular,Javascript
