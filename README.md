@@ -21,6 +21,7 @@ Pour l'installation:
   <br> Walid Nadifi 
  <br> FullStack Developer 
  <br>  MOROCCO
+ <br> walidnadifi@gmail.com
  <br> Tel: +212 6 61 08 44 85
   
   Refs: 
